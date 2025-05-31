@@ -1,3 +1,4 @@
+#Branch
 Y = int(input("tool ra vared konid:"))
 X = int(input("Arx ra vared konid:"))
 
