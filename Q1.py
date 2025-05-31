@@ -1,4 +1,4 @@
-#BRANCH SOBHAN
+#Sobhan
 Y = int(input("tool ra vared konid:"))
 X = int(input("Arz ra vared konid:"))
 
